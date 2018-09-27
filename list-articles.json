@@ -10,7 +10,8 @@
             "urlToImage": "https://image2.baonghean.vn/cw800/Uploaded/2018/fdgzswuqznzm/2018_04_23/bna_phison26202499_2342018.jpg",
             "publishedAt": "2018-09-24 01:24:49",
             "categoryId": 123,
-            "type": "photo"
+            "type": "article",
+            "commentCount" : 20 
         },
         {
             "id": 124,
@@ -20,7 +21,8 @@
             "urlToImage": "https://image2.baonghean.vn/cw800/Uploaded/2018/fdgzswuqznzm/2018_04_23/bna_phison26202499_2342018.jpg",
             "publishedAt": "2018-09-24 01:24:49",
             "categoryId": 123,
-            "type": "photo"
+            "type": "photo",
+            "commentCount" : 20 
         },
         {
             "id": 125,
@@ -28,9 +30,24 @@
             "title": "SLNA - Nỗi nhớ Phi Sơn với cuộc ra đi đầy cảm xúc",
             "description": "Phi Sơn không phải là cầu thủ xứ Nghệ đầu tiên rời sân Vinh, nhưng chắc chắn cách cư xử những ngày tháng cuối cùng gắn bó với SLNA của anh khiến khán giả xứ Nghệ khó thể nào quên.",
             "urlToImage": "https://image2.baonghean.vn/cw800/Uploaded/2018/fdgzswuqznzm/2018_04_23/bna_phison26202499_2342018.jpg",
+            "urlToVideo": "https://media.baonghean.vn/cw800/Uploaded/2018/fdgzswuqznzm/2018_04_23/bna_phison26202499_2342018.mp4",
+            "videoLength": "02:20",
             "publishedAt": "2018-09-24 01:24:49",
             "categoryId": 123,
-            "type": "photo"
+            "type": "video",
+            "commentCount" : 20
+        },
+        {
+            "id": 125,
+            "url": "https://baonghean.vn/slna-noi-nho-phi-son-voi-cuoc-ra-di-day-cam-xuc-216275.html",
+            "title": "SLNA - Nỗi nhớ Phi Sơn với cuộc ra đi đầy cảm xúc",
+            "description": "Phi Sơn không phải là cầu thủ xứ Nghệ đầu tiên rời sân Vinh, nhưng chắc chắn cách cư xử những ngày tháng cuối cùng gắn bó với SLNA của anh khiến khán giả xứ Nghệ khó thể nào quên.",
+            "urlToImage": "https://image2.baonghean.vn/cw800/Uploaded/2018/fdgzswuqznzm/2018_04_23/bna_phison26202499_2342018.jpg",
+            "urlToLongForm": "https://e.baonghean.vn/cw800/Uploaded/2018/fdgzswuqznzm/2018_04_23/bna_phison26202499_2342018.html",
+            "publishedAt": "2018-09-24 01:24:49",
+            "categoryId": 123,
+            "type": "long-form",
+            "commentCount" : 20
         }
     ]
 }
