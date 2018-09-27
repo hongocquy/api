@@ -1,0 +1,21 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "categories": [
+        {
+            "categoryId": 123,
+            "url": "https://baonghean.vn/giao-duc-khoa-hoc/",
+            "categoryName": "Giáo dục - khoa học"
+        },
+        {
+            "categoryId": 124,
+            "url": "https://baonghean.vn/giao-duc-khoa-hoc/",
+            "categoryName": "Giáo dục - khoa học"
+        },
+        {
+            "categoryId": 125,
+            "url": "https://baonghean.vn/giao-duc-khoa-hoc/",
+            "categoryName": "Giáo dục - khoa học"
+        }
+    ]
+}
